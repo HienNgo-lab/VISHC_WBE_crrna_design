@@ -1,6 +1,6 @@
 # Target-Enriched CRISPR crRNA Pool Design Pipeline
 
-This repository contains the Python pipeline for automated extraction, coordinate mapping, and construction of target-enriched crRNA oligo pools targeting Antibiotic Resistance Genes (ARGs) from the Comprehensive Antibiotic Resistance Database (CARD). The experimental methodology and bioinformatic workflow align with the CRISPR-NGS target-enrichment framework developed by Mao et al. (2025) [1] and its step-by-step protocol (Mao & Nguyen, 2024) [2], incorporating the FLASH algorithm for guide RNA selection (Quan et al., 2019) [3], CARD [4], and Cas9-targeted engineering protocols (Liang et al., 2015) [5].
+This repository contains the Python pipeline for automated extraction, coordinate mapping, and construction of target-enriched crRNA oligo pools targeting Antibiotic Resistance Genes (ARGs) from the Comprehensive Antibiotic Resistance Database (CARD). The experimental methodology and bioinformatic workflow align with the CRISPR-NGS target-enrichment framework developed by Mao et al. (2025) [1] and its step-by-step protocol (Mao & Nguyen, 2024) [2], incorporating the FLASH algorithm for guide RNA selection (Quan et al., 2019) [3], CARD (Alcock et al., 2023) [4], and Cas9-targeted engineering protocols (Liang et al., 2015) [5].
 
 ---
 
